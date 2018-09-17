@@ -1,0 +1,33 @@
+_repo: Canoeing-in-Kanuckia-Or-Haps-and-Mishaps-Afloat-and-Ashore-of-the-Statesman-the-Editor-the-Ar__52338
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Norton, Charles Ledyard
+    birthdate: 1837
+    deathdate: 1909
+    gutenberg_agent_id: '46801'
+    url: http://www.gutenberg.org/2009/agents/46801
+  - agent_name: Habberton, John
+    birthdate: 1842
+    deathdate: 1921
+    gutenberg_agent_id: '1427'
+    url: http://www.gutenberg.org/2009/agents/1427
+    wikipedia: http://en.wikipedia.org/wiki/John_Habberton
+description: ''
+gutenberg_issued: '2016-06-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52338'
+  lccn: '01021735'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F1001'
+- !lcsh 'Canoes and canoeing'
+- !lcsh 'Québec (Province) -- Description and travel'
+- GITenberg
+title: "Canoeing in Kanuckia\r\nOr, Haps and Mishaps Afloat and Ashore of the Statesman,\
+  \ the Editor, the Artist, and the Scribbler"
+url: http://www.gutenberg.org/ebooks/52338
